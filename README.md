@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub page.
+Welcome to my GitHub page. I am a self-motivated learner passionate about Data Science and Machine Learning.
 
 Feel free to check these platforms to learn more about me:
 
