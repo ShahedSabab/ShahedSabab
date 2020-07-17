@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+Welcome to my GitHub page.
+
+Feel free to check these platforms to learn more about me:
+
+LinkedIn 	https://www.linkedin.com/in/shahed-anzarus-sabab
+Portfolio	https://shahedsabab.github.io/shahed_portfolio/
+Tableau 	https://public.tableau.com/profile/shahed.anzarus.sabab#!
+Scholar 	https://bit.ly/3emzhbg
+
+
 <!--
 **ShahedSabab/ShahedSabab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
