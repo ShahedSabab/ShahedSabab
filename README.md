@@ -1,3 +1,5 @@
+![](https://res.cloudinary.com/dcypkejjm/image/upload/v1595467342/GitHub_pghcgl.png?raw=true)
+
 ### Hi there 👋
 
 Welcome to my GitHub page. I am a self-motivated learner passionate about Data Science and Machine Learning.
