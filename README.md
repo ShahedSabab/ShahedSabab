@@ -2,6 +2,7 @@
 
 Feel free to check these platforms to learn more about me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596531124/tableau_j71aji.svg" />][portfolio]
 
 Portfolio : https://shahedsabab.github.io/shahed_portfolio
 
