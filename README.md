@@ -1,6 +1,6 @@
 ![](https://res.cloudinary.com/dcypkejjm/image/upload/v1595467342/GitHub_pghcgl.png?raw=true)
 
-⚡ Feel free to check these platforms to learn more about me:
+😄 Feel free to check these platforms to learn more about me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 Portfolio : https://shahedsabab.github.io/shahed_portfolio
