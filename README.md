@@ -4,8 +4,10 @@ Feel free to check these platforms to learn more about me:
 
 
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]Portfolio : https://shahedsabab.github.io/shahed_portfolio
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
+Portfolio : https://shahedsabab.github.io/shahed_portfolio
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 LinkedIn  : https://www.linkedin.com/in/shahed-anzarus-sabab
 
 Tableau   : https://public.tableau.com/profile/shahed.anzarus.sabab#
