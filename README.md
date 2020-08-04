@@ -2,9 +2,10 @@
 
 Feel free to check these platforms to learn more about me:
 
-LinkedIn  : https://www.linkedin.com/in/shahed-anzarus-sabab
 
 Portfolio : https://shahedsabab.github.io/shahed_portfolio
+
+LinkedIn  : https://www.linkedin.com/in/shahed-anzarus-sabab
 
 Tableau   : https://public.tableau.com/profile/shahed.anzarus.sabab#
 
