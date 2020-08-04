@@ -3,7 +3,7 @@
 Feel free to check these platforms to learn more about me:
 
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] Portfolio : https://shahedsabab.github.io/shahed_portfolio 
+[<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [Portfolio : https://shahedsabab.github.io/shahed_portfolio] 
 
 LinkedIn  : https://www.linkedin.com/in/shahed-anzarus-sabab
 
