@@ -4,8 +4,14 @@ Feel free to check these platforms to learn more about me 😄 😄 😄 :
 
 [![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596785302/portfolio_ogzexc.svg)](https://shahedsabab.github.io/shahed_portfolio)
 
-[![<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg" />][Portfolio]
+[![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596785302/linkedin_filaqs.svg)](https://www.linkedin.com/in/shahed-anzarus-sabab)
 
+[![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596785302/tableau_i3gsyi.svg)](https://public.tableau.com/profile/shahed.anzarus.sabab#)
+
+[![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596785302/scholar_kaqxjb.svg)](https://scholar.google.ca/citations?user=DHauCgQAAAAJ&hl=en&oi=ao)
+
+
+<!--
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg" />]
 Portfolio : https://shahedsabab.github.io/shahed_portfolio
 
@@ -19,7 +25,7 @@ Tableau   : https://public.tableau.com/profile/shahed.anzarus.sabab#
 Scholar   : https://scholar.google.ca/citations?user=DHauCgQAAAAJ&hl=en&oi=ao
 
 
-<!--
+
 **ShahedSabab/ShahedSabab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
