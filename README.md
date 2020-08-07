@@ -2,11 +2,9 @@
 
 Feel free to check these platforms to learn more about me 😄 😄 😄 :
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][portfolio]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg" />]
 
-
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg" />]
 Portfolio : https://shahedsabab.github.io/shahed_portfolio
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
