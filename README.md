@@ -2,7 +2,7 @@
 
 Feel free to check these platforms to learn more about me 😄 😄 😄 :
 
-[![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596783751/LinkedIn-shahed--anzarus--sabab-blue_nkegdj.svg)](https://shahedsabab.github.io/shahed_portfolio)
+[![Foo](https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg)](https://shahedsabab.github.io/shahed_portfolio)
 
 [![<img align="left" alt="codeSTACKr.com" width="22px" src="https://res.cloudinary.com/dcypkejjm/image/upload/v1596783189/linkedin_oifsdw.svg" />][Portfolio]
 
